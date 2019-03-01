@@ -1,0 +1,19 @@
+{
+  "name": "circleci_test",
+  "version": "1.0.0",
+  "description": "This repository is a test project for Circle CI",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pierre-Rudolf Gerlach <pgerlach@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
